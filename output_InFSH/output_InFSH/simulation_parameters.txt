@@ -1,0 +1,5 @@
+ Velocity: 3
+ Sim time: 5.0E7
+ Num of cells: 54
+ Num of UEs per cell: 10
+ Cell Radius: 24
